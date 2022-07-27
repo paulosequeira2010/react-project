@@ -1,0 +1,15 @@
+Planeamento GuiLima Shop
+
+GuiLima Shop é uma loja online que possibilita a revenda de produtos relacionados com os patrocínios do Guilherme Lima.
+Permite assim destacar-se dos outros atletas nesta modalidade, retribuindo não só as redes sociais mas também com a revenda dos seus produtos.
+
+O público-alvo é para qualquer apaixonado pelo skateboarding que procure as melhores peças para o seu skate.
+O site está direccionado para a camada mais jovem (6 anos - 25 anos), sendo estes os maiores consumidores de desta modalidade
+
+GuiLima Shop permite também a integração da venda de outros produtos dentro do universo dos desportos radicais como o BMX.
+
+O Marketplace foi implementado para demosntração do Hook Redux.
+
+Este site pode ser usado como template para qualquer atleta que queira ter o seu espaço na internet onde possa dar mais retorno aos seus patrocionadores.
+
+ 
